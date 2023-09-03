@@ -100,6 +100,7 @@ List of mainline supported Rockchip boards:
      - Radxa CM3 IO Board (radxa-cm3-io-rk3566)
 
 * rk3568
+     - BananaPi R2Pro (bpi-r2pro-rk3568_defconfig)
      - Rockchip Evb-RK3568 (evb-rk3568)
      - EmbedFire LubanCat 2 (lubancat-2-rk3568)
      - FriendlyElec NanoPi R5C (nanopi-r5c-rk3568)
